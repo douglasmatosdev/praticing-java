@@ -8,7 +8,7 @@ public class Program3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String path = "/home/douglas/learn/praticing-java/course-exercises/java-completo-programação-orientada-a-objetos+projetos/in.txt";
+		String path = "/home/douglas/learn/praticing-java/course-exercises/java-completo-programação-orientada-a-objetos+projetos/lendo_arquivos/src/resources/in.txt";
 				
 		try(BufferedReader br = new BufferedReader(new FileReader(path))) {
 			String line = br.readLine();

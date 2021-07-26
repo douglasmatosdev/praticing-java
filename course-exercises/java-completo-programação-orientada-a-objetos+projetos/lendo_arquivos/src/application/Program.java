@@ -8,7 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		File file = new File("/home/douglas/learn/praticing-java/course-exercises/java-completo-programação-orientada-a-objetos+projetos/in.txt");
+		File file = new File("/home/douglas/learn/praticing-java/course-exercises/java-completo-programação-orientada-a-objetos+projetos/lendo_arquivos/src/resources/in.txt");
 		Scanner sc = null;
 		
 		try {
